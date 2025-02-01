@@ -1,3 +1,5 @@
+remote_theme: abhinavs/moonwalk
+
 collections:
   authors:
     output: true
