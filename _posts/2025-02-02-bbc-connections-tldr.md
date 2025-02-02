@@ -5,9 +5,9 @@ title: "Connections Documentary by BBC - a TL;DR for Episode 2"
 ---
 
 A visually appealing (as little words as possible) documentation of the episode.
-Please find the original documentary [here](https://archive.org/details/connections-1978-complete-first-series/Connections+(1978)+-+Season+01/Connections+(1978)+-+S01E02+-+Death+in+the+Morning.mp4) .
+Please find the original documentary [here](https://archive.org/details/connections-1978-complete-first-series/Connections+(1978)+-+Season+01/Connections+(1978)+-+S01E02+-+Death+in+the+Morning.mp4).
 
-![Image of Slide P1](/assets/images/Manus_et_Machina_course_images/25-02-03-tldr/p1.PNG ){: width="1300" }
+![Image of Slide P1](/assets/images/Manus_et_Machina_course_images/25-02-03-tldr/p1.PNG ){: width="1000" }
 
 ![Image of Slide P2](/assets/images/Manus_et_Machina_course_images/25-02-03-tldr/p2.PNG ){: width="1000" }
 
