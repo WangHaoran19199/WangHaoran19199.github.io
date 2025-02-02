@@ -1,8 +1,11 @@
 ---
 layout: post
 author: Haoran Wang
-title: "Connections Documentary by BBC - a TL;DR for Episode 2"
+title: "Connections Documentary by BBC - a TLDR for Episode 2"
 ---
+
+Visually appealing (avoiding use of words as much as possible) introduction of the second episode of the series.
+Please find the link to the original documentary here: [link](https://archive.org/details/connections-1978-complete-first-series/Connections+(1978)+-+Season+01/Connections+(1978)+-+S01E02+-+Death+in+the+Morning.mp4)
 
 ![Image of Slide P1](/assets/images/Manus_et_Machina_course_images/25-02-03-tldr/p1.PNG ){: width="1000" }
 
