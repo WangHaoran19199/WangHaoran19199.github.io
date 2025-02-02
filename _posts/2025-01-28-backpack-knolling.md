@@ -4,7 +4,7 @@ author: Haoran Wang
 title: "My Backpack - Knolling"
 ---
 
-![Picture of my backpack knolling](/assets/images/25-1-28-knoll/knoll.png){: width="1000" }
+![Picture of my backpack knolling](/assets/images/Manus_et_Machina_course_images/25-1-28-knoll/knoll.png){: width="1000" }
 
 These are (most of) the things I carry around in my backpack:
 
