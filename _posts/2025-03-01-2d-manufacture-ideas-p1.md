@@ -14,4 +14,3 @@ title: "Ideas for a 2D Manufactire Process (Post1)"
 ![Image of sandworm](/assets/images/Manus_et_Machina_course_images/25-03-01-2D_ideas0/p3.jpg ){: width="1000" }
 ![Image of heighliner](/assets/images/Manus_et_Machina_course_images/25-03-01-2D_ideas0/p4.jpeg ){: width="1000" }
 
-4. Aviation Patch for Wadi Drone
