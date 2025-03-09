@@ -15,5 +15,5 @@ title: "Ideas for a tote bag (Post2)"
 
 
 
-    Disclaimer: these problems are for fun only, they are absolutely not meant to be satire against personal expression and environmental protection. I believe reducing plastic waste is a nobel cause, and it is good for people to express themselves in all legal ways.
+    Disclaimer: these problems are for fun only, they are absolutely not meant to be satire against personal expression and environmental protection. I believe reducing plastic waste is a noble cause, and it is good for people to express themselves in all legal ways.
 
